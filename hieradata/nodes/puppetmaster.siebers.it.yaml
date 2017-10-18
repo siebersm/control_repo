@@ -2,7 +2,7 @@
 nodeyaml::customer_name:          siebers
 nodeyaml::customer_environment:   production
 nodeyaml::application_name:       demo
-nodeyaml::application_role:       demo
+nodeyaml::application_role:       puppetmaster
 nodeyaml::application_instance:   1
 nodeyaml::datacenter:             utrecht
 ...
